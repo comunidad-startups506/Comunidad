@@ -5,5 +5,7 @@
 
 .page-header {
 	background-color: rgb(9, 23, 53);
-	background: "url(../../startupscr.jpeg)";
+	background-image: url("/startupscr.jpeg");
+	background-repeat: no-repeat no-repeat;
+	background-position: cover;
 }
