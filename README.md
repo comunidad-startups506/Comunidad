@@ -1,5 +1,13 @@
 # Bienvenidos a Startups CR
 
+## Sobre Uso
+
+Cada usuario debe crear su propia rama (branch) para proponer a la comunidad sea iniciativas o exponer problemas mediante una solicitud (pull request).
+
+### Guía
+
+Para aprender usos básicos de Github que estaremos aplicando dirigirse a la página [Instrucciones](https://github.com/startupscr/Comunidad/wiki/Instrucciones)
+
 ## Iniciativas
 
 En este sitio gestionamos proyectos de la comunidad, con la herramienta [Proyectos](https://github.com/startupscr/iniciativas/projects), en [Iniciativas](https://github.com/startupscr/iniciativas/projects/1), donde se podrá visualizar un tablero con distintas columnas de acuerdo al estado de desarrollo de una idea.
