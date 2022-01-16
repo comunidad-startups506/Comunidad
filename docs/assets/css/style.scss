@@ -1,12 +1,4 @@
 ---
 ---
 
-@import "{{ site.theme }}";
-
-.page-header {
-	background-color: rgb(9, 23, 53);
-	background-image: url("https://startupscr.github.io/Comunidad/startupscr.jpeg");
-	background-repeat: no-repeat no-repeat;
-	background-position: center center;
-	background-size: cover;
-}
+@import 'jekyll-theme-cayman';
