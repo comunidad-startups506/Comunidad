@@ -1,7 +1,3 @@
-remote-theme: Huxpro/huxpro.github.io
+remote_theme: TaylanTatli/Moon
 title: StartupsCR
-SEOTitle: Startups Costa Rica
 description: Sitio principal de la comunidad Startups CR
-
-sidebar: true
-sidebar-about-description: "Comunidad de Startups en Costa Rica para el crecimiento del emprendedurismo"
