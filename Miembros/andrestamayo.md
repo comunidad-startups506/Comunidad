@@ -4,7 +4,7 @@
 Me dedico al desarrollo de software. De lleno en el emprendedurismo. Estoy actualmente desarrollando una plataforma de confluencia afín con los objetivos de esta comunidad de emprendimiento, con lo cual espero que sea de gran aporte para el crecimiento del emprendedurismo tanto en Costa Rica como en Latinoamérica y países allegados.
 
 ## Habilidades
-Software, Diseño de Software, ilustración, solución de problemas, lenguajes, acondicionamiento físico y mental.
+Software, Diseño, ilustración, solución de problemas, lenguajes, acondicionamiento físico y mental.
 
 ## Experiencia
 Tengo experiencia como ejecutivo de ventas. He trabajado para negocios en las áreas de Gestión de Clientes (con productos y servicios de CRMs, Queue Management Systems, Customer Counting Systems) y Marketing.
