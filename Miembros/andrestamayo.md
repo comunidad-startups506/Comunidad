@@ -64,7 +64,7 @@ Me gusta aprender de lenguas, específicamente las Latinas y Griegas dado a mí 
 * Francés
 * Portugués
 
-Y para quien por alguna razón quiera comenzar a aprender sobre filología, puedo introducirles en el Latin y el Griego Clásico, que no domino pero que he comenzado a estudiar hace un tiempo.
+Y para quien por alguna razón quiera comenzar a aprender sobre filología, puedo introducirles en el Latin y el Griego Clásico, que no domino pero que he comenzado a estudiar desde hace un tiempo.
 
 ### Filosofía
 
