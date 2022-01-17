@@ -70,4 +70,4 @@ Y para quien por alguna razón quiera comenzar a aprender sobre filología, pued
 
 Estudio diariamente pensamientos que nos ayudan a sobrellevar la vida sin desdichas y lleno de voluntad, con los que estaría sobre todas las cosas agustísimo poder introducírselos a quien quiera o necesite aprender más de estos. Entre varios pensamientos, cito el: Estoico, Cinico, Socrático, Aristotélico, Cristiano, Islámico, Budista y Taoista.
 
-Entre los filosofos que más me he familiarizado estan: Seneca, Epicteto, Marco Aurelio, Epicuro, Confucio y Lao-Tse.
+Entre los filosofos que más me he familiarizado estan: Seneca, Epicteto, Marco Aurelio, Epicuro, Pablo de Tarso, Confucio y Lao-Tse.
