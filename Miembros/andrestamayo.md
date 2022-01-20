@@ -11,7 +11,7 @@ Tengo experiencia como ejecutivo de ventas. He trabajado para negocios en las á
 
 Llevo alrededor de cuatro o cinco años en el ámbito de las Startups. No he levantado ningúna exitosamente, pero he comenzado y llevado al desarrollo la mayoría que he comenzado, que son alrededor de 3 o 4, las cuales no se siguieron o se aplazaron no por circunstancia sino por decisión ante aspectos que en su momento no sentí alineados para que me fuera sensato continuar. Entre las áreas, se encuentra el área de eCommerce, de movilidad urbana y de salud.
 
-En todas me he desenvuelto como Diseñador, Desarrollador y Gestionador del Proyecto. Con dos de esas tuve la experiencia de presentarme y ser contactado por inversionistas de varias de las VC Firms más importantes de California, aunque con cierta dicha con ningúna se llego concretar nada.
+En todas me he desenvuelto como Diseñador, Desarrollador y Gestor del Proyecto. Con dos de esas tuve la experiencia de presentarme y ser contactado por inversionistas de varias de las VC Firms más importantes de California, aunque con cierta dicha con ningúna se llego concretar nada.
 
 Conforme pasaron esas experiencias me comencé a enfocar más en desarrollar y en conseguir las habilidades y los recursos primarios requeridos para llevar a una startup a su autosustento antes de pensar en levantar capital y presentarme de nuevo a inversionistas. Permitiendome así enfocarme meramente en el producto más que en el tiempo y en el capital. Conforme a este método de desarrollo que he estado desarrollando y aplicando, he comenzado una startup de desarrollo y productividad que les permita a las personas conocerlo y adaptarlo.
 
