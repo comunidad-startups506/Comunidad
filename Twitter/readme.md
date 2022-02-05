@@ -16,9 +16,18 @@ Con el hashtag **#Introducción** adjuntado al hashtag principal **StartupsCR**,
 
 Con el hashtag **#Información** adjuntado al hashtag principal **StartupsCR**, cada emprendimiento o emprendedor publicará la información que desea compartir con nosotros, y con la cuenta oficial de Twitter compartiremos la información para los seguidores y miembros del canal.
 
-### Ideación
+### Noticias
 
-Con el hashtag **#Ideación** adjuntado al hashtag principal **StartupsCR**, podemos compartir sugerencias o ideas para impulsar iniciativas, así como deficiencias que hemos experimentado en nuestras vidas o labores que puedan convertirse en una idea para comenzar una iniciativa. Consecuentemente, con la cuenta oficial de Twittter compartiremos la idea para los seguidores y miembros del canal.
+Con el hashtag **#Noticias** adjuntado al hashtag principal **StartupsCR**, podemos compartir con la comunidad noticias relevantes al ámbito del emprendedurismo, y con la cuenta oficial de Twitter compartiremos la información para los seguidores y miembros del canal.
+
+### Ideas
+
+Con el hashtag **#Idea** adjuntado al hashtag principal **StartupsCR**, podemos compartir sugerencias o ideas para impulsar la creación de nuevas iniciativas. Consecuentemente, con la cuenta oficial de Twittter compartiremos la idea para los seguidores y miembros del canal.
+
+### Problemas
+
+Con el hashtag **#Problema** adjuntado al hashtag principal **StartupsCR**, podemos compartir deficiencias que hemos experimentado en nuestras vidas o labores que puedan convertirse en una idea para comenzar una iniciativa. Consecuentemente, con la cuenta oficial de Twittter compartiremos la idea para los seguidores y miembros del canal.
+
 
 ### Educación
 
